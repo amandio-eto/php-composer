@@ -1,0 +1,17 @@
+{
+    "name": "amandio/php-composer",
+    "description": "use to Test my Project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Amandio\\PhpComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "amandio.eto",
+            "email": "JoseAmandiodeAlmeida021099@gmail.com"
+        }
+    ],
+    "require": {}
+}
