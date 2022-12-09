@@ -5,3 +5,4 @@
 # "composer --version"
 # composer init
 # composer update
+# composer dump-autoload
